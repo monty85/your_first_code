@@ -6,7 +6,7 @@ int main(void)
     printf("Hello Holberton\n");
   }
   return i;
-}
+};
 int main(void)
 {
   int i;
@@ -15,7 +15,7 @@ int main(void)
     printf("Hello Holberton\n");
   }
   return i;
-}
+};
 int main(void)
 {
   int i;
@@ -24,10 +24,9 @@ int main(void)
     printf("Hello Holberton\n");
   }
   return i;
-}
+};
 int main(void)
 {
   int i;
   for (i = 0; i < 32; i++)
-}
-return i;
+};
